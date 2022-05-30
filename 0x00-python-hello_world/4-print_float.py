@@ -2,4 +2,4 @@
 
 number = 3.14159
 
-print(f"{number:d} .2")
+print(f"{'float:'} {number:.2}")
